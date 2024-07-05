@@ -1,4 +1,4 @@
-some_list = list(input())
+some_list = list(input().lower())
 
 consonants = 0
 
